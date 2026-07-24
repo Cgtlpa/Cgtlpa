@@ -1,4 +1,4 @@
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=1793D1&height=180&section=header&text=Hi,%20I'm%20Adrian&fontSize=42&fontColor=ffffff&fontAlignY=35)
+![Header Banner](./github-header-banner.png)
 
 <div align="center">
 
