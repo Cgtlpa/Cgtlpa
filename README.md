@@ -4,7 +4,7 @@
 
 `Arch Linux` • `Neovim` • `Go` • `C#`
 
-**Go dev learning C# for Linux TUIs and 2D games | Coding 2+ years**
+**Go dev , learning C# for Linux TUIs | Coding 2+ years started with javascript**
 
 <br />
 
@@ -16,7 +16,7 @@
 
 <br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=1793d1&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Cgtlpa&color=1793d1&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -26,5 +26,5 @@
 
 - 🐧 **Environment:** Arch Linux + Neovim
 - 🛠️ **Primary Language:** Go
-- 🎯 **Currently Learning:** C# (Building Linux TUIs & exploring 2D game dev)
+- 🎯 **Currently Learning:** C# (Building Linux TUIs and maybe in the future small 2d Games)
 - ⌛ **Experience:** Coding for 2+ years
