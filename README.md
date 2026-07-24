@@ -24,7 +24,7 @@
 
 ### 💻 Current Focus
 
-- 🐧 **Environment:** Arch Linux + Neovim
-- 🛠️ **Primary Language:** Go
-- 🎯 **Currently Learning:** C# (Building Linux TUIs and maybe in the future small 2d Games)
-- ⌛ **Experience:** Coding for 2+ years
+-  **Environment:** Arch Linux + Neovim
+-  **Primary Language:** Go
+-  **Currently Learning:** C# (Building Linux TUIs and maybe in the future small 2d Games)
+-  **Experience:** Coding for 2+ years
