@@ -1,21 +1,30 @@
-#  About Me:
-German <br>learning V <br>Go developer <br>i love Linux and MangoWm<br>interested in systems , programming and open-source software 
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=1793D1&height=180&section=header&text=Hi,%20I'm%20Adrian&fontSize=42&fontColor=ffffff&fontAlignY=35)
 
+<div align="center">
 
-##  Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/jGKVJRgww) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@cgtlpaa) 
+`Arch Linux` • `Neovim` • `Go` • `C#`
 
-#  Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-#  GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Cgtlpa&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Cgtlpa&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Cgtlpa&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Go dev learning C# for Linux TUIs and 2D games | Coding 2+ years**
 
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Cgtlpa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br />
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+<br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=1793d1&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Cgtlpa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 Current Focus
+
+- 🐧 **Environment:** Arch Linux + Neovim
+- 🛠️ **Primary Language:** Go
+- 🎯 **Currently Learning:** C# (Building Linux TUIs & exploring 2D game dev)
+- ⌛ **Experience:** Coding for 2+ years
