@@ -2,9 +2,9 @@
 
 <div align="center">
 
-`Arch Linux` • `Neovim` • `Go` • `C#`
+`Arch Linux` • `Neovim` • `Go` • `C++`
 
-**Go dev , learning C# for Linux TUIs | Coding 2+ years started with javascript**
+**Go dev , learning C++ for Linux TUIs and games | Coding 2+ years started with javascript**
 
 <br />
 
@@ -26,5 +26,5 @@
 
 -  **Environment:** Arch Linux + Neovim
 -  **Primary Language:** Go
--  **Currently Learning:** C# (Building Linux TUIs and maybe in the future small 2d Games)
+-  **Currently Learning:** C++ (Building Linux TUIs and maybe in the future small 2d Games)
 -  **Experience:** Coding for 2+ years
