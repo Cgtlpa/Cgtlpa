@@ -25,6 +25,7 @@
 ### 💻 Current Focus
 
 -  **Environment:** Arch Linux + Neovim
--  **Primary Language:** Go
--  **Currently Learning:** C++ (Building Linux TUIs and maybe in the future small 2d Games)
+-  **Primary Language:** Rust
+-  **Currently Learning:** Rust (Building Linux TUIs and maybe in the future small 2d Games)
+-  **I know:** Go, Rust, C++, Lua, JavaScript
 -  **Experience:** Coding for 2+ years
