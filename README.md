@@ -2,21 +2,20 @@
 
 <div align="center">
 
-`Arch Linux` • `Neovim` • `Go` • `C++`
+`openSUSE` • `Rust` • `Linux` • `Neovim`
 
-**Go dev , learning C++ for Linux TUIs and games | Coding 2+ years started with javascript**
-
-<br />
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+**Rust developer focused on Linux, systems programming and tooling | Coding for 2+ years**
 
 <br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Cgtlpa&color=1793d1&style=flat-square&label=Profile+Views)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
+![openSUSE](https://img.shields.io/badge/openSUSE-73BA25?style=flat-square\&logo=opensuse\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square\&logo=neovim\&logoColor=white)
+
+<br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=Cgtlpa\&color=73ba25\&style=flat-square\&label=Profile+Views)
 
 </div>
 
@@ -24,8 +23,25 @@
 
 ### 💻 Current Focus
 
--  **Environment:** Arch Linux + Neovim
--  **Primary Language:** Rust
--  **Currently Learning:** Rust (Building Linux TUIs and maybe in the future small 2d Games)
--  **I know:** Go, Rust, C++, Lua, JavaScript
--  **Experience:** Coding for 2+ years
+* **Environment:** openSUSE + Neovim
+* **Primary Language:** Rust
+* **Currently Learning:** Rust, systems programming and Linux internals
+* **Building:** Linux tools, TUIs, GUI applications and experimental projects
+* **I know:** Rust, C++, Go, Lua, JavaScript
+* **Experience:** Coding for 2+ years
+
+### 🐧 Linux
+
+I'm interested in Linux and systems programming, especially understanding how things work underneath the desktop — from terminal applications and userspace tools to operating systems and low-level programming.
+
+### 🔧 Projects
+
+Currently working on **Silen Linux**, a Gentoo-based Linux distribution focused on being practical, reliable and easy to use while still giving users room to go deeper.
+
+---
+
+<div align="center">
+
+**Build it. Break it. Understand it. Build it better.**
+
+</div>
