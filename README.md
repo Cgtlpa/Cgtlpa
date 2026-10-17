@@ -2,45 +2,76 @@
 
 <div align="center">
 
-`Fedora` • `Rust` • `Linux` • `Helix`
+`Fedora` • `Go` • `Linux` • `VS Code`
 
-**Rust developer focused on Linux, systems programming and tooling | Coding for 2+ years**
-
-<br />
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square\&logo=fedora\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Helix](https://img.shields.io/badge/Helix-5E5086?style=flat-square\&logo=helix\&logoColor=white)
+**Linux enthusiast building system tools, terminal applications and my own Linux distribution.**
 
 <br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Cgtlpa\&color=51a2da\&style=flat-square\&label=Profile+Views)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Cgtlpa&color=51a2da&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-### 💻 Current Focus
+###  About Me
 
-* **Environment:** Fedora + Helix
-* **Primary Language:** Rust
-* **Currently Learning:** Rust, systems programming and Linux internals
-* **Building:** Linux tools, TUIs, GUI applications and experimental projects
-* **I know:** Rust, Go, Lua, JavaScript
-* **Experience:** Coding for 2+ years
+-  **OS:** Fedora Linux
+-  **Editor:** Visual Studio Code
+-  **Main language:** Go
+-  **Interests:** Linux, systems programming, TUIs and operating systems
+-  *Currently building:** Silen Linux and gotui
+-  **Learning:** Go, software architecture and Linux internals
 
-### 🐧 Linux
+I enjoy building things that interact with the system, exploring how Linux works under the hood, and turning ideas into usable software.
 
-I'm interested in Linux and systems programming, especially understanding how things work underneath the desktop — from terminal applications and userspace tools to operating systems and low-level programming.
+### Silen Linux
 
-### 🔧 Projects
+**My own Linux distribution.**
 
-Currently working on **Silen Linux**, a Linux distribution focused on being practical, reliable and easy to use while still giving users room to go deeper.
+Silen is a project focused on creating a practical, reliable Linux experience while leaving room for customization and experimentation.
+
+I'm working on its tools, setup experience and overall ecosystem — building more of the pieces myself as the project evolves.
+
+### gotui
+
+**A Go TUI framework focused on simplicity and customization.**
+
+gotui aims to make terminal user interfaces easier to build without sacrificing flexibility. Its API lets you create interactive applications using a simple, chainable interface.
+
+```go
+app := gotui.New()
+app.Title("Silen Setup")
+app.Center(true)
+
+app.Text("Welcome to Silen")
+app.Select("wm", "Choose a window manager",
+    "InstantWM", "Niri", "DWM",
+)
+
+if err := app.Run(); err != nil {
+    // Handle errors
+}
+```
+
+The goal is to make building useful terminal applications straightforward, from simple prompts to complete setup wizards.
+
+### Technologies & Interests
+
+- **Languages:** Go, Rust, Lua, JavaScript
+- **Systems:** Linux, operating systems, system utilities
+- **Development:** Terminal UIs, GUI applications, developer tools
+- **Environment:** Fedora Linux, VS Code
 
 ---
 
 <div align="center">
 
+*Building things, learning how they work, and making Linux a little more interesting.*
+
 </div>
-::
