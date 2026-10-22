@@ -124,6 +124,7 @@
   "socials": {
     "items": [
       { "icon": "brand:github", "url": "https://github.com/Cgtlpa" },
+      { "icon": "brand:discord", "url": "https://discord.com/users/1403825051546943538" },
       { "icon": "mail", "url": "mailto:cgtlpa@gmail.com" }
     ],
     "variant": "chip",
