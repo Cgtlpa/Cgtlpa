@@ -1,77 +1,25 @@
-![Header Banner](./github-header-banner.png)
-
 <div align="center">
 
-`Fedora` • `Go` • `Linux` • `VS Code`
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m vgz"></picture>
 
-**Linux enthusiast building system tools, terminal applications and my own Linux distribution.**
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="37.230%" alt=""></picture><a href="https://github.com/Cgtlpa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="16.014%" alt="github"></picture></a><a href="mailto:cgtlpa@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="9.523%" alt="mail"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="37.230%" alt=""></picture>
 
-<br />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Technologies &amp; interests"></picture>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Cgtlpa&color=51a2da&style=flat-square&label=Profile+Views)
+<a href="https://github.com/Cgtlpa/SilenLinux"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-silenlinux-dark.svg"><img src="assets/project-silenlinux-light.svg" width="49%" alt="SilenLinux"></picture></a>&nbsp;<a href="https://github.com/Cgtlpa/gotui"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-gotui-dark.svg"><img src="assets/project-gotui-light.svg" width="49%" alt="gotui"></picture></a>
 
-</div>
+<a href="https://github.com/Cgtlpa/spk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-spk-dark.svg"><img src="assets/project-spk-light.svg" width="49%" alt="spk"></picture></a>&nbsp;<a href="https://github.com/Cgtlpa/silen"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-silen-dark.svg"><img src="assets/project-silen-light.svg" width="49%" alt="silen"></picture></a>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-###  About Me
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
--  **OS:** Fedora Linux
--  **Editor:** Visual Studio Code
--  **Main language:** Go
--  **Interests:** Linux, systems programming, TUIs and operating systems
--  *Currently building:** Silen Linux and gotui
--  **Learning:** Go, software architecture and Linux internals
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-I enjoy building things that interact with the system, exploring how Linux works under the hood, and turning ideas into usable software.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-l-dark.svg"><img src="assets/button-l-light.svg" width="17.995%" alt=""></picture><a href="https://github.com/Cgtlpa?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="25.939%" alt="All repositories"></picture></a><a href="https://github.com/Cgtlpa/SilenLinux"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="21.590%" alt="Silen Linux"></picture></a><a href="https://github.com/Cgtlpa/gotui"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-3-dark.svg"><img src="assets/button-3-light.svg" width="16.479%" alt="gotui"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-r-dark.svg"><img src="assets/button-r-light.svg" width="17.995%" alt=""></picture>
 
-### Silen Linux
-
-**My own Linux distribution.**
-
-Silen is a project focused on creating a practical, reliable Linux experience while leaving room for customization and experimentation.
-
-I'm working on its tools, setup experience and overall ecosystem — building more of the pieces myself as the project evolves.
-
-### gotui
-
-**A Go TUI framework focused on simplicity and customization.**
-
-gotui aims to make terminal user interfaces easier to build without sacrificing flexibility. Its API lets you create interactive applications using a simple, chainable interface.
-
-```go
-app := gotui.New()
-app.Title("Silen Setup")
-app.Center(true)
-
-app.Text("Welcome to Silen")
-app.Select("wm", "Choose a window manager",
-    "InstantWM", "Niri", "DWM",
-)
-
-if err := app.Run(); err != nil {
-    // Handle errors
-}
-```
-
-The goal is to make building useful terminal applications straightforward, from simple prompts to complete setup wizards.
-
-### Technologies & Interests
-
-- **Languages:** Go, Rust, Lua, JavaScript
-- **Systems:** Linux, operating systems, system utilities
-- **Development:** Terminal UIs, GUI applications, developer tools
-- **Environment:** Fedora Linux, VS Code
-
----
-
-<div align="center">
-
-*Building things, learning how they work, and making Linux a little more interesting.*
+<a href="https://metawka.github.io/expressive-profile/?from=Cgtlpa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
 </div>

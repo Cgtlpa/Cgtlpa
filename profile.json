@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "login": "Cgtlpa",
+  "seed": "#51A2DA",
+  "seedFromAvatar": false,
+  "scheme": "vibrant",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "vgz",
+    "subtitle": "Linux enthusiast building system tools and my own Linux distribution.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      { "icon": "brand:fedora", "label": "Fedora Linux" },
+      { "icon": "brand:go", "label": "Go" },
+      { "icon": "brand:linux", "label": "Linux" },
+      { "icon": "code", "label": "VS Code" }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      { "icon": "person", "label": "Linux enthusiast and systems tinkerer" },
+      { "icon": "desktop_windows", "label": "Fedora Linux · Visual Studio Code" },
+      { "icon": "code", "label": "Main language: Go" },
+      { "icon": "rocket_launch", "label": "Currently building Silen Linux and gotui" },
+      { "icon": "school", "label": "Learning Go, software architecture and Linux internals" },
+      { "icon": "favorite", "label": "Linux, systems programming, TUIs and operating systems" }
+    ]
+  },
+  "stack": {
+    "title": "Technologies & interests",
+    "groups": [
+      {
+        "title": "Languages",
+        "items": [
+          { "icon": "brand:go", "label": "Go" },
+          { "icon": "brand:rust", "label": "Rust" },
+          { "icon": "brand:lua", "label": "Lua" },
+          { "icon": "brand:javascript", "label": "JavaScript" }
+        ]
+      },
+      {
+        "title": "Systems",
+        "items": [
+          { "icon": "brand:linux", "label": "Linux" },
+          { "icon": "brand:fedora", "label": "Fedora" },
+          { "icon": "terminal", "label": "System utilities" },
+          { "icon": "deployed_code", "label": "Operating systems" }
+        ]
+      },
+      {
+        "title": "Development",
+        "items": [
+          { "icon": "terminal", "label": "Terminal UIs" },
+          { "icon": "desktop_windows", "label": "GUI apps" },
+          { "icon": "code", "label": "Developer tools" }
+        ]
+      },
+      {
+        "title": "Environment",
+        "items": [
+          { "icon": "brand:fedora", "label": "Fedora Linux" },
+          { "icon": "code", "label": "VS Code" },
+          { "icon": "brand:git", "label": "Git" }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": ["SilenLinux", "gotui", "spk", "silen"],
+    "overrides": {
+      "SilenLinux": {
+        "text": "My own Linux distribution — practical, reliable and built for customization and experimentation.",
+        "icon": "brand:linux"
+      },
+      "gotui": {
+        "text": "A Go TUI framework with the customizability of Bubble Tea and the simplicity of Huh.",
+        "icon": "terminal"
+      },
+      "spk": {
+        "text": "spk — the Silen Linux package manager (Spark), with release binaries.",
+        "icon": "folder_zip"
+      },
+      "silen": {
+        "text": "The website for Silen Linux.",
+        "icon": "language"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      { "icon": "brand:github", "url": "https://github.com/Cgtlpa" },
+      { "icon": "mail", "url": "mailto:cgtlpa@gmail.com" }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      { "icon": "book_2", "label": "All repositories", "url": "https://github.com/Cgtlpa?tab=repositories", "style": "filled" },
+      { "icon": "brand:linux", "label": "Silen Linux", "url": "https://github.com/Cgtlpa/SilenLinux", "style": "tonal" },
+      { "icon": "terminal", "label": "gotui", "url": "https://github.com/Cgtlpa/gotui", "style": "tonal" }
+    ],
+    "card": true
+  }
+}

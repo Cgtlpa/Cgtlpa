@@ -1,0 +1,226 @@
+{
+ "key": "e011350e",
+ "stars": 6,
+ "contributions": 211,
+ "repos": 6,
+ "followers": 3,
+ "languages": [
+  [
+   "Rust",
+   166318
+  ],
+  [
+   "Go",
+   120062
+  ],
+  [
+   "HTML",
+   13145
+  ],
+  [
+   "CSS",
+   3762
+  ],
+  [
+   "Nix",
+   1945
+  ],
+  [
+   "C",
+   1819
+  ],
+  [
+   "Perl",
+   635
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 25,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 14,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 32,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 13,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": true
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 0,
+  "longest": 5
+ },
+ "pins": [
+  {
+   "name": "SilenLinux",
+   "url": "https://github.com/Cgtlpa/SilenLinux",
+   "text": "",
+   "fork": false,
+   "stars": 3,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "gotui",
+   "url": "https://github.com/Cgtlpa/gotui",
+   "text": "A Go TUI framework with the customizability of Bubble Tea and the simplicity of Huh",
+   "fork": false,
+   "stars": 1,
+   "language": "Go",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "SilenLinux",
+   "url": "https://github.com/Cgtlpa/SilenLinux",
+   "text": "",
+   "fork": false,
+   "stars": 3,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "gotui",
+   "url": "https://github.com/Cgtlpa/gotui",
+   "text": "A Go TUI framework with the customizability of Bubble Tea and the simplicity of Huh",
+   "fork": false,
+   "stars": 1,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "spk",
+   "url": "https://github.com/Cgtlpa/spk",
+   "text": "spk - Silen Linux package manager (spark), with release binaries",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "eXoditeLinux",
+   "url": "https://github.com/Cgtlpa/eXoditeLinux",
+   "text": "my own linux installer",
+   "fork": false,
+   "stars": 1,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "silen",
+   "url": "https://github.com/Cgtlpa/silen",
+   "text": "Website for Silen Linux",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Cgtlpa",
+   "url": "https://github.com/Cgtlpa/Cgtlpa",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
