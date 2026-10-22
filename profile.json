@@ -50,8 +50,7 @@
         "items": [
           { "icon": "brand:go", "label": "Go" },
           { "icon": "brand:rust", "label": "Rust" },
-          { "icon": "brand:lua", "label": "Lua" },
-          { "icon": "brand:javascript", "label": "JavaScript" }
+          { "icon": "brand:lua", "label": "Lua" }
         ]
       },
       {
