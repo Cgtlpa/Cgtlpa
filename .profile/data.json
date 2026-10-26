@@ -1,10 +1,14 @@
 {
- "key": "e65b97dc",
- "stars": 6,
- "contributions": 214,
- "repos": 6,
+ "key": "90e88435",
+ "stars": 7,
+ "contributions": 218,
+ "repos": 7,
  "followers": 3,
  "languages": [
+  [
+   "TypeScript",
+   196512
+  ],
   [
    "Rust",
    166318
@@ -19,15 +23,15 @@
   ],
   [
    "CSS",
-   3762
+   8954
   ],
   [
    "C",
    1819
   ],
   [
-   "Perl",
-   635
+   "JavaScript",
+   1250
   ]
  ],
  "days": [
@@ -112,7 +116,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 4,
     "day": 26,
     "today": true
    },
@@ -124,7 +128,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 5
  },
  "pins": [
@@ -155,6 +159,15 @@
    "fork": false,
    "stars": 3,
    "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "lunara",
+   "url": "https://github.com/Cgtlpa/lunara",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
    "topics": []
   },
   {
