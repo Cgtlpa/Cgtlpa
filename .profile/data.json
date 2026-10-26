@@ -1,5 +1,5 @@
 {
- "key": "b945a09c",
+ "key": "e65b97dc",
  "stars": 6,
  "contributions": 214,
  "repos": 6,
@@ -129,8 +129,8 @@
  },
  "pins": [
   {
-   "name": "SilenLinux",
-   "url": "https://github.com/Cgtlpa/SilenLinux",
+   "name": "Lunara-Linux",
+   "url": "https://github.com/Cgtlpa/Lunara-Linux",
    "text": "",
    "fork": false,
    "stars": 3,
@@ -149,8 +149,8 @@
  ],
  "all": [
   {
-   "name": "SilenLinux",
-   "url": "https://github.com/Cgtlpa/SilenLinux",
+   "name": "Lunara-Linux",
+   "url": "https://github.com/Cgtlpa/Lunara-Linux",
    "text": "",
    "fork": false,
    "stars": 3,
