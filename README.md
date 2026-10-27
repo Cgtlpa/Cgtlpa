@@ -8,9 +8,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Technologies &amp; interests"></picture>
 
-<a href="https://github.com/Cgtlpa/gotui"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-gotui-dark.svg"><img src="assets/project-gotui-light.svg" width="49%" alt="gotui"></picture></a>&nbsp;<a href="https://github.com/Cgtlpa/spk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-spk-dark.svg"><img src="assets/project-spk-light.svg" width="49%" alt="spk"></picture></a>
+<a href="https://github.com/Cgtlpa/SilenLinux"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-silenlinux-dark.svg"><img src="assets/project-silenlinux-light.svg" width="49%" alt="SilenLinux"></picture></a>&nbsp;<a href="https://github.com/Cgtlpa/gotui"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-gotui-dark.svg"><img src="assets/project-gotui-light.svg" width="49%" alt="gotui"></picture></a>
 
-<a href="https://github.com/Cgtlpa/silen"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-silen-dark.svg"><img src="assets/project-silen-light.svg" width="49%" alt="silen"></picture></a>
+<a href="https://github.com/Cgtlpa/spk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-spk-dark.svg"><img src="assets/project-spk-light.svg" width="49%" alt="spk"></picture></a>&nbsp;<a href="https://github.com/Cgtlpa/silen"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-silen-dark.svg"><img src="assets/project-silen-light.svg" width="49%" alt="silen"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
