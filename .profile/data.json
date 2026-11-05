@@ -1,8 +1,8 @@
 {
- "key": "db658739",
+ "key": "5c9f7ae8",
  "stars": 7,
- "contributions": 230,
- "repos": 8,
+ "contributions": 235,
+ "repos": 9,
  "followers": 3,
  "languages": [
   [
@@ -19,19 +19,19 @@
   ],
   [
    "HTML",
-   13145
+   41441
   ],
   [
    "CSS",
-   8954
+   37923
+  ],
+  [
+   "JavaScript",
+   3691
   ],
   [
    "C",
    1819
-  ],
-  [
-   "JavaScript",
-   1250
   ]
  ],
  "days": [
@@ -131,7 +131,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 5,
     "day": 5,
     "today": true
    },
@@ -140,7 +140,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 5
  },
  "pins": [
@@ -207,6 +207,15 @@
    "fork": false,
    "stars": 1,
    "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "Silensite",
+   "url": "https://github.com/Cgtlpa/Silensite",
+   "text": "Source for the Silen Linux website",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
    "topics": []
   },
   {
