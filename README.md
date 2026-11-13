@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I'm vgz"></picture>
@@ -46,4 +45,3 @@ I'm a developer interested in systems programming, Linux, software development a
 <a href="https://metawka.github.io/expressive-profile/?from=Cgtlpa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
 </div>
-```
