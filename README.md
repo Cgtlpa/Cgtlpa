@@ -1,38 +1,16 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I'm vgz"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m vgz"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="28.954%" alt=""></picture><a href="https://github.com/Cgtlpa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="16.014%" alt="github"></picture></a><a href="https://discord.com/users/1403825051546943538" title="_vgzz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><a href="mailto:adrian.neub@proton.me"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="9.523%" alt="mail"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="28.954%" alt=""></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="28.954%" alt=""></picture><a href="https://github.com/Cgtlpa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="16.014%" alt="github"></picture></a><a href="https://discord.com/users/1403825051546943538"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><a href="mailto:cgtlpa@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="9.523%" alt="mail"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="28.954%" alt=""></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Technologies & interests"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Technologies &amp; interests"></picture>
 
-## About
+<a href="https://github.com/Cgtlpa/SilenLinux"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-silenlinux-dark.svg"><img src="assets/project-silenlinux-light.svg" width="49%" alt="SilenLinux"></picture></a>&nbsp;<a href="https://github.com/Cgtlpa/gotui"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-gotui-dark.svg"><img src="assets/project-gotui-light.svg" width="49%" alt="gotui"></picture></a>
 
-I'm a developer interested in systems programming, Linux, software development and game development.
-
-- **OS:** Gentoo Linux
-- **Languages:** Rust, C++, Go, Java, Lua
-- **Interests:** Systems programming, Linux, game development and software engineering
-
-## Projects
-
-<a href="https://github.com/Cgtlpa/SilenLinux"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-silenlinux-dark.svg"><img src="assets/project-silenlinux-light.svg" width="49%" alt="Silen Linux"></picture></a>&nbsp;<a href="https://github.com/Cgtlpa/gotui"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-gotui-dark.svg"><img src="assets/project-gotui-light.svg" width="49%" alt="gotui"></picture></a>
-
-<a href="https://github.com/Cgtlpa/silen"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-silen-dark.svg"><img src="assets/project-silen-light.svg" width="49%" alt="Silen"></picture></a>
-
-### Currently working on
-
-- **Monora** – A game development project currently being developed with Rust and Macroquad.
-- **Silen Linux** – An independent Linux distribution focused on simplicity, reliability and user control.
-- **Cres** – A package manager written in Go, designed for the Silen Linux ecosystem.
-- **gotui** – A terminal UI library written in Go.
-
-## Contact
-
-- **Email:** [adrian.neub@proton.me](mailto:adrian.neub@proton.me)
-- **Discord:** `_vgzz`
+<a href="https://github.com/Cgtlpa/spk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-spk-dark.svg"><img src="assets/project-spk-light.svg" width="49%" alt="spk"></picture></a>&nbsp;<a href="https://github.com/Cgtlpa/silen"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-silen-dark.svg"><img src="assets/project-silen-light.svg" width="49%" alt="silen"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
