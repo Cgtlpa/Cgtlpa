@@ -25,20 +25,22 @@
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
-      { "icon": "brand:fedora", "label": "Fedora Linux" },
+      { "icon": "brand:nixos", "label": "NixOS" },
       { "icon": "brand:go", "label": "Go" },
+      { "icon": "brand:v", "label": "V" },
       { "icon": "brand:linux", "label": "Linux" },
-      { "icon": "code", "label": "VS Code" }
+      { "icon": "brand:vscodium", "label": "VSCodium" },
+      { "icon": "brand:zedindustries", "label": "Zed" }
     ]
   },
   "about": {
     "title": "About me",
     "items": [
       { "icon": "person", "label": "Linux enthusiast and systems tinkerer" },
-      { "icon": "desktop_windows", "label": "Fedora Linux · Visual Studio Code" },
-      { "icon": "code", "label": "Main language: Go" },
-      { "icon": "rocket_launch", "label": "Currently building Silen Linux and gotui" },
-      { "icon": "school", "label": "Learning Go, software architecture and Linux internals" },
+      { "icon": "desktop_windows", "label": "NixOS · VSCodium and Zed" },
+      { "icon": "code", "label": "Languages: Go, Rust, V and Lua" },
+      { "icon": "rocket_launch", "label": "Currently building Silen Linux, silenwm and gotui" },
+      { "icon": "school", "label": "Learning Go, V and Linux internals" },
       { "icon": "favorite", "label": "Linux, systems programming, TUIs and operating systems" }
     ]
   },
@@ -50,6 +52,7 @@
         "items": [
           { "icon": "brand:go", "label": "Go" },
           { "icon": "brand:rust", "label": "Rust" },
+          { "icon": "brand:v", "label": "V" },
           { "icon": "brand:lua", "label": "Lua" }
         ]
       },
@@ -57,7 +60,7 @@
         "title": "Systems",
         "items": [
           { "icon": "brand:linux", "label": "Linux" },
-          { "icon": "brand:fedora", "label": "Fedora" },
+          { "icon": "brand:nixos", "label": "NixOS" },
           { "icon": "terminal", "label": "System utilities" },
           { "icon": "deployed_code", "label": "Operating systems" }
         ]
@@ -73,8 +76,9 @@
       {
         "title": "Environment",
         "items": [
-          { "icon": "brand:fedora", "label": "Fedora Linux" },
-          { "icon": "code", "label": "VS Code" },
+          { "icon": "brand:nixos", "label": "NixOS" },
+          { "icon": "brand:vscodium", "label": "VSCodium" },
+          { "icon": "brand:zedindustries", "label": "Zed" },
           { "icon": "brand:git", "label": "Git" }
         ]
       }
